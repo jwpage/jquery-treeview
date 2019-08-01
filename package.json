@@ -1,0 +1,23 @@
+{
+  "name": "jquery-treeview",
+  "version": "1.4.2",
+  "description": "Lightweight and flexible transformation of an unordered list into an expandable and collapsable tree, great for unobtrusive navigation enhancements. Supports both location and cookie based persistence.",
+  "main": "jquery.treeview.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzaefferer/jquery-treeview.git"
+  },
+  "keywords": [
+    "jquery",
+    "treeview"
+  ],
+  "author": "Jörn Zaefferer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jzaefferer/jquery-treeview/issues"
+  },
+  "homepage": "https://github.com/jzaefferer/jquery-treeview#readme"
+}
